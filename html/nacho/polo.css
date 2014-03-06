@@ -1,0 +1,48 @@
+body {
+   background-image:url("fondo.png");
+}
+#cabecera{
+   margin:0px auto 0px auto;
+
+   }
+#cuerpo{
+width:980px;
+height:500px;;
+margin:0px auto 0px auto;
+
+}
+#logo{
+margin-top:5px;
+ float:left;
+}
+#botones{
+  margin-top:30px;
+  text-align: right;
+  margin-right:30px;
+}
+#presentacion{
+  margin-top:80px;
+}
+#presentacion span{
+  font-family:times new roman;
+  font-weight:bold;
+  font-size:20pt;
+  margin-left:100px;
+}
+
+.caja{
+   width:30%;
+   height:300px;
+   display: inline-block;
+   font-family:times new roman;
+}
+#enmedio{
+margin-right:25px;
+margin-left:25px;
+}
+#titulo_caja{
+  color:#11719e;
+  font-size:20pt;
+}
+
+.informacionsocial{
