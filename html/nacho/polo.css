@@ -1,13 +1,24 @@
 body {
    background-image:url("fondo.png");
+   font-family: arial;
+   font-size: 10pt;
 }
+
+h3{
+  font-family:times new roman;
+}
+
+h2{
+  font-family:times new roman;
+}
+
 #cabecera{
    margin:0px auto 0px auto;
-
    }
+
 #cuerpo{
 width:980px;
-height:500px;;
+height:500px;
 margin:0px auto 0px auto;
 
 }
@@ -24,7 +35,7 @@ margin-top:5px;
   margin-top:80px;
 }
 #presentacion span{
-  font-family:times new roman;
+
   font-weight:bold;
   font-size:20pt;
   margin-left:100px;
@@ -34,7 +45,6 @@ margin-top:5px;
    width:30%;
    height:300px;
    display: inline-block;
-   font-family:times new roman;
 }
 #enmedio{
 margin-right:25px;
@@ -46,3 +56,13 @@ margin-left:25px;
 }
 
 .informacionsocial{
+
+   width:30%;
+   height:300px;
+   display: inline-block;
+
+   }
+
+#textfoto{
+
+}
